@@ -6,3 +6,29 @@
 	Note: This is custom css. All custom styles (user styles) declare here.
 
 **********************************************************************************/
+
+.help-error, .help-block
+{
+    color: #ff5c75;
+}
+.hide {
+    display: none;
+}
+form.submitted input.ng-invalid, input.ng-dirty.ng-invalid,
+form.submitted ng2-flatpickr.ng-invalid, ng2-flatpickr.ng-dirty.ng-invalid,
+form.submitted .ng-select.ng-invalid .ng-select-container, .ng-select.ng-dirty.ng-invalid .ng-select-container {
+    border: 1px solid #ff5c75;
+}
+p.help.is-danger {
+    color: #ff5c75;
+}
+.hide-error-message app-control-error{
+    display: none;
+}
+a {
+    cursor: pointer;
+}/* You can add here your styles */
+
+formly-wrapper-form-field span{
+    color: #ff5c75;
+}
