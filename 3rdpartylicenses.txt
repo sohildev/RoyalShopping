@@ -273,6 +273,9 @@ THE SOFTWARE.
 ngx-image-zoom
 MIT
 
+ngx-owl-carousel-o
+MIT
+
 ngx-toastr
 MIT
 The MIT License (MIT)
